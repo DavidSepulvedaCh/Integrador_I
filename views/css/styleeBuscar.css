@@ -1,0 +1,36 @@
+.parrafo{
+    text-align: justify;
+    margin: .5cm;
+}
+
+.buscar_cl{
+    width: 35%;
+}
+
+.buscar_btn{
+    width: 10%;
+}
+
+
+
+.eliminar_cl{
+    width: 35%;
+}
+
+.eliminar_btn{
+    width: 10%;
+}
+
+.bienvenida{
+    text-align: center;
+    margin: 0.2 cm;
+}
+
+.parrafo{
+    text-align: justify;
+    margin: 0.2 cm;
+}
+
+
+
+
